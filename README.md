@@ -1,6 +1,8 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&duration=4500&pause=1000&center=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Shubham+Patil" alt="Typing SVG" /></a>
+</p>
 
 
-<h1 align="center">Hi 👋, I'm Shubham Patil</h1>
 <h3 align="center">Undergrad Student Focusing On Web Development And Data Science</h3>
 
 
