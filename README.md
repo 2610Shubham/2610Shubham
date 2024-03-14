@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-patil-080891264)
 [![Kaggle](https://img.shields.io/badge/kaggle-gray.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shubhamapatil)
 [![LeetCode](https://img.shields.io/badge/leetcode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/shubhamp2610/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green.svg?style=for-the-badge&logo=website&logoColor=white)](shubhampatil2610.netlify.app )
+[![Portfolio](https://img.shields.io/badge/Portfolio-green.svg?style=for-the-badge&logo=website&logoColor=white)](https://shubhampatil2610.netlify.app/)
 
 
 ## Skills:
